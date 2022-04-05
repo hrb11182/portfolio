@@ -3,51 +3,49 @@
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
+        name:"AB.Dev",
         description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
         tags:["react","gsap","styledComponents"],
         
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
+        demo:"https://ab-dev.netlify.app/",
+        github:"https://github.com/hrb11182/AB-Dev"
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"Zomato-Clone",
+        description:"Clone of a renowned food delivery web-app",
+        tags:["react"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"https://ab-zomato-clone.netlify.app/",
+        github:"https://github.com/hrb11182/ab-zomato-clone"
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        name:"MI-Store Clone",
+        description:"A clone of MI-Store build using ReactJS. With realtime fetching of data from a JSON file.",
+        tags:["react"],
         
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        demo:"https://ab-mi-store.netlify.app/",
+        github:"https://github.com/hrb11182/mi-store-clone"
     },
     {
         id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-        tags:["react","styledComponents","react-router"],
+        name:"Tesla-landing page",
+        description:"A cool looking tesla-landing page build using ReactJS and styledComponents.It has really smooth animations.",
+        tags:["react","styledComponents"],
         
-        demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
+        demo:"https://ab-tesla-clone.netlify.app/",
+        github:"https://github.com/hrb11182/Tesla-Landing-Page"
        
     },{
         id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
+        name:"AB-Play",
+        description:"A Movie-Recomendation app build using Movie DB's API where you can watch the trailers of the movies.",
+        tags:["react","scss"],
         
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
+        demo:"https://abplay.netlify.app/",
+        github:"https://github.com/hrb11182/ab-play"
         
-    },
-    
-  
+    },  
 ] 
